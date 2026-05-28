@@ -110,6 +110,11 @@ pip install -r requirements.txt
 - Advanced Healthcare Analytics
 - Predictive Healthcare Reporting
 
+  ## Live Demo
+
+🔗 Streamlit App: https://healthcare-and-medical-analysis.streamlit.app/
+
+
 ---
 
 # 👩‍💻 Author
