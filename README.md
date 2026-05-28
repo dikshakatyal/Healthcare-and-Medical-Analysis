@@ -1,4 +1,4 @@
-# 🏥 Healthcare CKD Prediction Dashboard
+# 🏥 Healthcare CKD Prediction and EHR Analysis
 
 An interactive Healthcare Analytics project focused on Chronic Kidney Disease (CKD) prediction and patient health analysis using Power BI and Streamlit dashboards.
 
@@ -90,13 +90,15 @@ pip install -r requirements.txt
 
 ---
 
-# 📷 Dashboard Screenshots
+
 
 
 
 ## 🌐 Streamlit Dashboard
 
 ![Streamlit Dashboard](images/streamlit_dashboard.png)
+![Streamlit Dashboard](images/streamlit_dashboard1.png)
+![Streamlit Dashboard](images/streamlit_dashboard2.png)
 
 ---
 
