@@ -2,7 +2,7 @@
 
 A comprehensive Healthcare Analytics project focused on Chronic Kidney Disease (CKD) prediction and patient health analysis — built with Python, Power BI, and Streamlit.
 
-🔗 **Live Demo:** https://healthcare-and-medical-analysis.streamlit.app/
+🔗 **Live Demo:** https://healthcare-and-medical-analysis.streamlit.app
 
 ---
 
